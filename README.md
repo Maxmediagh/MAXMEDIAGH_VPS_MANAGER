@@ -1,4 +1,4 @@
-## ◇────── DRAGON VPS MANAGER ───────◇
+## ◇────── MAXMEDIAGH_VPS_MANAGER───────◇
 
 ㅤ
 <p align="left">
@@ -6,18 +6,12 @@
  <img width=550px height=550px src="https://github.com/januda-ui/januda-ui/blob/main/icons/photo_2021-12-01_07-36-12.jpg?raw=true?raw=true" alt="logo"></a>
 </p>
 
-##
-___REFERRAL LINK___
-
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=0c8d9b763684&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
-
 ## ㅤ
 
 ___Update System Packages and Install SCRIPT___
 
 ```
-apt-get update -y && apt-get upgrade -y && wget https://raw.githubusercontent.com/AtizaD/WOLF-VPS-MANAGER/main/hehe && chmod 777 hehe && ./hehe
-
+apt-get update -y && apt-get upgrade -y && wget https://raw.githubusercontent.com/Maxmediagh/MAXMEDIAGH_VPS_MANAGER/main/hehe && chmod 777 hehe && ./hehe
 
 ```
 
