@@ -24,7 +24,7 @@ ___Credits___
 
 ## ㅤ
 
-___Follow Us!___
+___CONTACT ME___
 
  <p>    
 <div class="div2">
