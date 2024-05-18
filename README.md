@@ -1,7 +1,5 @@
 ## ◇────── MAXMEDIAGH_VPS_MANAGER───────◇
 
-ㅤ
-
 
 ## ㅤ
 
@@ -11,16 +9,6 @@ ___Update System Packages and Install SCRIPT___
 apt-get update -y && apt-get upgrade -y && wget https://raw.githubusercontent.com/Maxmediagh/MAXMEDIAGH_VPS_MANAGER/main/hehe && chmod 777 hehe && ./hehe
 
 ```
-
-
- 
- ## ㅤ
- 
-___Credits___
-
-<p>see on <a href="https://github.com/januda-ui/DRAGON-VPS-MANAGER/wiki/Credits" target="_blank" rel="noopener">wiki</a></p>
-<p>see on <a href="https://telegra.ph/DRAGON-VPS-MANAGER-11-30" target="_blank" rel="noopener">Telegra.ph</a>&nbsp;</p>
-  <P><b><i> 💐💐 To everyone who gave me advice and ideas.💐💐 </i></b></p>
 
 ## ㅤ
 
@@ -32,6 +20,15 @@ ___CONTACT ME___
  </div>
  </p>
  
+ 
+ ## ㅤ
+ 
+___Credits___
+
+<p>see on <a href="https://github.com/januda-ui/DRAGON-VPS-MANAGER/wiki/Credits" target="_blank" rel="noopener">wiki</a></p>
+<p>see on <a href="https://telegra.ph/DRAGON-VPS-MANAGER-11-30" target="_blank" rel="noopener">Telegra.ph</a>&nbsp;</p>
+  <P><b><i> 💐💐 To everyone who gave me advice and ideas.💐💐 </i></b></p>
+
 ## ㅤ
  
 ___⚠️ Announcement ⚠️___
