@@ -3,7 +3,7 @@
 ㅤ
 <p align="left">
   <a href="" rel="noopener">
- <img width=550px height=550px src="https://github.com/januda-ui/januda-ui/blob/main/icons/photo_2021-12-01_07-36-12.jpg?raw=true?raw=true" alt="logo"></a>
+ <img width=550px height=550px src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flearn.g2.com%2Fwhat-is-vps&psig=AOvVaw1Wm7IwDt28kn2Iam1mJbXV&ust=1716133894764000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCn-pjHl4YDFQAAAAAdAAAAABAJ?raw=true?raw=true" alt="logo"></a>
 </p>
 
 ## ㅤ
